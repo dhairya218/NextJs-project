@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "title": "Ad Banner 1",
+      "description": "Description for ad banner 1",
+      "cta": "Click Here",
+      "image": "/path/to/image1.jpg",
+      "background": "#f0f0f0"
+    },
+    {
+      "id": 2,
+      "title": "Ad Banner 2",
+      "description": "Description for ad banner 2",
+      "cta": "Learn More",
+      "image": "/path/to/image2.jpg",
+      "background": "#e0e0e0"
+    }
+  ]
+  
